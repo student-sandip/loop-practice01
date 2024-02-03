@@ -1,0 +1,99 @@
+// import java.util.Scanner;
+
+// class pattern {
+//     public static void main(String[] args) {
+//         Scanner sc = new Scanner(System.in);
+
+// 1.
+
+        // int n= 5;
+    //     for (int i = n; i >0 ; i--){
+    //         for (int j = 0; j <i; j++){
+    //         System.out.print(" * ");
+    //     }
+    // System.out.println("\n");
+    // }    
+    // }
+
+// 2.
+
+// int sum =0;
+// int n =sc.nextInt();
+// for (int i =1; i <=n; i++){
+//     sum=sum+2*i;
+// }
+// System.out.println("sum of the even no are" +sum);
+//     }
+// }
+
+// 3.
+
+
+// while (true) {
+// int  m, n ;
+// m = sc.nextInt();
+// n = sc.nextInt();
+// for(int i=1; i<= n ;i++){
+//     System.out.printf("%d * %d = %d\n" ,m,i,m*i);
+
+// }
+// System.out.println("want again ?(y/n)");
+// String playagain = sc.next();
+// if (!playagain.equalsIgnoreCase("y")){
+//     break;
+//     }
+// }
+
+
+// 4.
+
+// int  m, n ;
+// m = sc.nextInt();
+// n = sc.nextInt();
+// for(int i=n; i >=1;i--){
+//     System.out.printf("%d * %d = %d\n" ,m,i,m*i);
+// }
+
+// 5.
+
+// int n = sc.nextInt();
+// int fact = 1;
+// for(int i =1; i<=n; i++){
+//     fact  = fact * i;
+
+// }System.out.println(n+"!"+" is = " +fact);
+
+
+// 6. same in while loop 5 no question;
+
+// 7. same as 1no in using while loop;
+
+// 8.
+ 
+// what can be done using one type of loop can also be done using other .the other two types of loops - true or false ======= TRUE;
+
+// 9.
+
+// int  m, n ;
+// m = sc.nextInt();
+// n = sc.nextInt();
+// int sum = 0;
+// for(int i=1; i<= n ;i++){
+//     System.out.printf("%d * %d = %d\n" ,m,i,m*i);
+//     sum = sum +n*i;
+// }
+// System.out.println("the sum of the series is : "+sum );
+
+// 10.
+
+// do--whoile loop is executes at least one time before  checking the condition;
+
+// 11.
+
+// repeat 2no using while loop;
+
+// }
+// }
+
+
+// finish.
